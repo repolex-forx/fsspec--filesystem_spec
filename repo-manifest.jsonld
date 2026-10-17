@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/fsspec/filesystem_spec/commit/685f62eaf4baa00a974e1f7865746a1879816d9b",
       "git:hexsha": "685f62eaf4baa00a974e1f7865746a1879816d9b",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/fsspec/filesystem_spec/commit/1e1f53f9ec3899ae9672b41f2ee328a57f2b1602",
